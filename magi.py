@@ -446,7 +446,7 @@ def i():
  
     code = input(f'\n{R} [{B}+{R}] {P}PUT CODE : ')
  
-    s("xdg-open https://www.facebook.com/profile.php?id=100086738192739")
+    s("xdg-open https://facebook.com/groups/659573435485246/")
  
     print("")
  
